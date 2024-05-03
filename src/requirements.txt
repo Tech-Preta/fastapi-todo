@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+fastapi-sqlalchemy
+pydantic[sqlalchemy]
+alembic
+psycopg2
+pytest
+requests

@@ -1,0 +1,4 @@
+__pycache__
+Dockerfile
+test_main.py
+.pytest_cache
